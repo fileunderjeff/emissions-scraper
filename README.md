@@ -6,6 +6,7 @@ During Hurricane Harvey, we worked with Air Alliance Houston to scrape data ever
 The work of these scientists and advocates can be seen here:
 
 https://projects.propublica.org/graphics/harvey-manchester
+
 https://www.nytimes.com/2017/09/06/us/harvey-houston-valero-benzene.html
 
 Maps:
